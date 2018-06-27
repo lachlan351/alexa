@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/go-alexa/alexa/parser"
+	"github.com/lachlan351/alexa/parser"
 )
 
 var (

@@ -9,9 +9,9 @@ import (
 
 	"github.com/gorilla/handlers"
 
-	"github.com/go-alexa/alexa/events"
-	"github.com/go-alexa/alexa/parser"
-	"github.com/go-alexa/alexa/validations"
+	"github.com/lachlan351/alexa/events"
+	"github.com/lachlan351/alexa/parser"
+	"github.com/lachlan351/alexa/validations"
 )
 
 // Host is the host for the HTTP server to listen on. By default, it uses the

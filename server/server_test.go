@@ -3,10 +3,10 @@ package server
 import (
 	"github.com/boltdb/bolt"
 
-	"github.com/go-alexa/alexa/events"
-	"github.com/go-alexa/alexa/parser"
-	"github.com/go-alexa/alexa/response"
-	"github.com/go-alexa/alexa/validations"
+	"github.com/lachlan351/alexa/events"
+	"github.com/lachlan351/alexa/parser"
+	"github.com/lachlan351/alexa/response"
+	"github.com/lachlan351/alexa/validations"
 )
 
 func ExampleServer() {

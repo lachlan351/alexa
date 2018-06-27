@@ -2,7 +2,7 @@
 package response
 
 import (
-	"github.com/go-alexa/alexa/parser"
+	"github.com/lachlan351/alexa/parser"
 )
 
 const (

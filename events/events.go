@@ -4,8 +4,8 @@ package events
 import (
 	"errors"
 
-	"github.com/go-alexa/alexa/parser"
-	"github.com/go-alexa/alexa/response"
+	"github.com/lachlan351/alexa/parser"
+	"github.com/lachlan351/alexa/response"
 )
 
 const (
